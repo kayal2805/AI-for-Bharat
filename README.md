@@ -1,4 +1,4 @@
-AI-Based Cervical Cytology Screening System
+                                                                            **   AI-Based Cervical Cytology Screening System**
 
 An explainability-first deep learning system for automated cervical cytology screening, designed for low-resource, community-level deployment using smartphone-compatible microscopy images.
 The goal is to enable early detection support while maintaining clinical transparency and trust.
