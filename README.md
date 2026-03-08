@@ -1,5 +1,4 @@
 
-# PapSight AI
 ## An Exploratory Explainability‑First AI Approach to Cervical Cancer Cytology Screening
 
 ## Introduction
